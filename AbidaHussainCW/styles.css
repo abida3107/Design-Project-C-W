@@ -1,0 +1,102 @@
+html {
+  background-color: #000;
+}
+body {
+  min-height: 85vh;
+  max-width: 400px;
+  background-color: papayawhip;
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: #7c4e29;
+}
+
+.btn:hover {
+  background-color: papayawhip;
+  color: #7c4e29;
+  border-color: #7c4e29;
+}
+
+.Logo img {
+  width: 250px;
+  text-align: center;
+  position: relative;
+  right: 50px;
+}
+
+.navbar .container .collapse .navbar-nav {
+  text-align: left;
+}
+
+.nav p-3 {
+  background-color: #7c4e29;
+}
+
+.custom-Images {
+  text-align: center;
+}
+
+.custom-Images img {
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+}
+
+.title h4 {
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+
+.list .ingredients {
+  font-style: italic;
+}
+
+.list .ingredients li {
+  padding: 3px;
+}
+
+.water img {
+  width: 100%;
+  padding: 10px;
+}
+
+.quicknav .btn {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.quicknav .next {
+  position: relative;
+  left: 190px;
+}
+
+.quicknav .back {
+  position: relative;
+  bottom: 54px;
+}
+
+.quicknav .home {
+  position: relative;
+  left: -10px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.quicknav .home .btn {
+    padding-left: 150px;
+    padding-right: 150px;
+    }
+
+.home p {
+  font-style: italic;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.home span {
+  font-size: large;
+  font-weight: 700;
+  color: #7c4e29;
+}
